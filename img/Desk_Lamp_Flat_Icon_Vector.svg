@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 960 960" style="enable-background:new 0 0 960 960;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#CCCCCC;}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:#E6E6E6;}
+	.st3{fill:none;stroke:#CCCCCC;stroke-width:22.7535;stroke-miterlimit:10;}
+</style>
+<g>
+	<path class="st0" d="M444.7,147.9L444.7,147.9c20.4,20.4,20.4,53.6,0,74l-37,37l-74-74l37-37C391.1,127.5,424.2,127.5,444.7,147.9z
+		"/>
+	<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -132.833 296.728)" class="st1" cx="291.8" cy="308.7" rx="43" ry="43"/>
+	<path class="st2" d="M384.1,418.6l0.6-0.6c57.8-57.8,57.8-151.4,0-209.2s-151.4-57.8-209.2,0l-0.6,0.6L384.1,418.6z"/>
+	<polyline class="st3" points="426.3,226.3 757.1,454.8 657.9,776.9 	"/>
+	<circle class="st2" cx="748.8" cy="454.3" r="36.3"/>
+	<path class="st2" d="M764.2,827.4H552.3v-19.1c0-23.8,19.3-43.1,43.1-43.1h125.7c23.8,0,43.1,19.3,43.1,43.1L764.2,827.4
+		L764.2,827.4z"/>
+</g>
+</svg>
