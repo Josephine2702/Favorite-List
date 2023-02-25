@@ -46,6 +46,11 @@ p {
     
 }
 
+.book__list {
+    display: block !important;
+    
+}
+
 .block-list {
     width: 25%;
     margin-top: 20px;
@@ -113,25 +118,30 @@ select {
     font-size: 40px;
     line-height: 0.75;
     z-index: 2;
-    padding-bottom: 20px;
+    margin-bottom: 20px;
+    
 }
 
 .rating__body {
     position: relative;
+    
 }
 
 .rating__body::before {
     content:"★★★★★";
     display: block;
+    color: white;
+   
 }
 
 .rating__active {
     position: absolute;
-    width: 100%;
+    width: 0%;
     height: 100%;
     top: 0;
     left: 0;
     overflow: hidden;
+    
 }
 
 .rating__active::before {
@@ -142,11 +152,17 @@ select {
     top: 0;
     left: 0;
     color: #ffd300;
+    
 }
 
 .rating__items {
     display: flex;
     position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    
 }
 
 .rating__item {
@@ -159,4 +175,14 @@ select {
 font-size: 50%;
 line-height: 1;
 padding-left: 10px;
+color:#FFCA42;
+}
+
+.rating_style {
+    font-family: 'El Messiri';
+    color: #FFCA42;
+    font-size: 18px;
+    padding-right: 10px;
+    
+    
 }
